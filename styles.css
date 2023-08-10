@@ -1,0 +1,60 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* background-color: rgb(106, 66, 96); */
+    background-image: url(office.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+  }
+  
+  header {
+    background-color: #7966b2;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+    padding-right:25px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  form label, form input, form textarea, form button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background-color: #7966b2;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  h1,h2{
+    padding-left: 25%;
+    /* padding-right: 20%; */
+    color:rgb(255, 255, 255);
+     background-color: rgba(0, 0, 0, 0.716);
+  }
+  p,#language,h3,form{
+margin-left: 50%;
+    
+  }
+  

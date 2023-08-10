@@ -15,7 +15,6 @@
   </header>
 
   <section id="home">
-    <h1>Welcome to My Portfolio</h1>
     <p>Hi, I'm Arihant Jain, an engineering student.
         I am persuing my B.Tech. from Vidya College Of Engineering.
     </p>

@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 <head>
-  <title>My Portfolio</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
